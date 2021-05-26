@@ -1,0 +1,417 @@
+> AS.ini
+
+
+\\ Don't edit this.
+
+\\ No edites esto.
+
+\\ Bearbeiten Sie dies nicht.
+
+\\ Nie edytuj tego.
+
+
+
+
+
+> favorites.txt
+
+
+\\Place IP address for server here. Name:IP:PortFowarded
+\\  NAME OF SERVER:000.000.000.000:0000
+
+
+
+\\ Coloque la direccion IP del servidor aqui. Nombre: IP: PortFowarded
+\\ NOMBRE DEL SERVIDOR: 000.000.000.000: 0000
+
+
+\\ Geben Sie hier die IP-Adresse fur den Server ein. Name: IP: PortFowarded
+\ NAME DES SERVERS: 000.000.000.000: 0000
+
+
+\\ Tutaj umiesc adres IP serwera. Nazwa: IP: PortFowarded
+\\ NAZWA SERWERA: 000.000.000.000: 0000
+
+
+
+
+
+
+
+> pinglist.txt
+
+
+\\ Place Words or phrases you want to ping your client. The "@" isn't required.
+
+\\ Coloque las palabras o frases que desea hacer ping a su cliente. La "@" no es obligatoria.
+
+\\ Platzieren Sie Worter oder Phrasen, die Sie an Ihren Client pingen mochten. Das "@" ist nicht erforderlich.
+
+\\ Umiesc wyrazy lub wyrazenia, ktore chcesz pingowac klienta. "@" Nie jest wymagane.
+
+
+
+
+
+
+
+> settings.ini
+
+
+\\[DesignStyle] Folder name of the UI theme you want to use.
+\\ [DesignStyle] Nombre de la carpeta del tema UI que desea usar.
+\\ [DesignStyle] Ordnername des UI-Themas, das Sie verwenden mochten.
+\\ [DesignStyle] Nazwa folderu motywu interfejsu uzytkownika, ktorego chcesz uzyc.
+
+
+
+\\[User] Your Account information.
+
+
+
+\\Ping. Words in your pinglist.txt will make your client light up if this is set to 1.
+\\Silbido. Las palabras en su pinglist.txt haran que su cliente se encienda si esta configurado en 1.
+\\Klingeln. Worter in Ihrer pinglist.txt werden Ihren Client aufleuchten lassen, wenn dieser auf 1 gesetzt ist.
+\\Swist. Slowa w twoim pliku pinglist.txt sprawia, ze twoj klient zapali sie, jesli jest ustawiony na 1.
+
+
+\\Sfxping. This is the name of the Sound file that will play when you get pinged. It is located in Sounds/sfx/<file> (WITH extension).
+\\ Sfxping. Este es el nombre del archivo de sonido que se reproducira cuando recibas un pin. Se encuentra en Sonidos / sfx / <archivo> (CON extension).
+\\ Sfxping. Dies ist der Name der Sounddatei, die wiedergegeben wird, wenn Sie einen Ping-Befehl erhalten. Es befindet sich in Sounds / sfx / <Datei> (WITH-Erweiterung).
+\\ Sfxping. Jest to nazwa pliku dzwiekowego, ktory zostanie odtworzony po otrzymaniu polecenia ping. Znajduje sie w Dzwieki / sfx / <plik> (Z rozszerzeniem).
+
+
+
+
+\\sfx-buy.  Sound file that plays when getting or buying a shop item in a server.
+\\ sfx-buy. Archivo de sonido que se reproduce al comprar o comprar un articulo de una tienda en un servidor.
+\\ sfx-kaufen. Sounddatei, die beim Abrufen oder Kaufen eines Shopelements auf einem Server wiedergegeben wird.
+\\ sfx-buy. Plik dzwiekowy odtwarzany podczas kupowania lub kupowania przedmiotu na serwerze.
+
+
+\\Color Code of your mana bar. If you want to find your own, use this link:
+\\http://docwiki.embarcadero.com/RADStudio/Seattle/en/Colors_in_the_VCL
+\\ Codigo de color de tu barra de mana. Si quieres encontrar el tuyo, utiliza este enlace:
+\\http://docwiki.embarcadero.com/RADStudio/Seattle/en/Colors_in_the_VCL
+\\ Farbcode deiner Manabar. Wenn Sie einen eigenen finden mochten, verwenden Sie diesen Link:
+\\http://docwiki.embarcadero.com/RADStudio/Seattle/de/Colors_in_the_VCL
+\\ Kod koloru twojego paska many. Jesli chcesz znalezc wlasna, uzyj tego linku:
+\\http://docwiki.embarcadero.com/RADStudio/Seattle/en/Colors_in_the_VCL
+
+
+
+
+
+
+
+
+> whitelist.txt
+
+
+
+\\ Place your desired Image Hosting Sites here, so Animators can use them.
+
+\\ Coloque aqui los sitios de alojamiento de imagenes que desee, para que los animadores puedan usarlos.
+
+\\ Platzieren Sie Ihre gewunschten Image Hosting Sites hier, damit Animators sie verwenden konnen.
+
+\\ Umiesc tutaj wybrane witryny hostingu obrazow, aby animatorzy mogli z nich korzystac.
+
+
+
+
+[In Server Folder]
+
+> animators.txt
+
+
+\\ Place your desired Image Hosting Sites here, so Animators can use them.
+
+\\ Coloque aqui los sitios de alojamiento de imagenes que desee, para que los animadores puedan usarlos.
+
+\\ Platzieren Sie Ihre gewunschten Image Hosting Sites hier, damit Animators sie verwenden konnen.
+
+\\ Umiesc tutaj wybrane witryny hostingu obrazow, aby animatorzy mogli z nich korzystac.
+
+
+
+
+
+
+> banip.txt
+
+
+// Put IP Address here if you want this person banned / kicked.
+
+// Pon la direccion IP aqui si quieres que esta persona sea prohibida / pateada.
+
+
+
+
+
+
+
+> banuser.txt
+
+
+
+// Put Usernames here you want to ban.
+
+// Pon los nombres de usuario aqui que quieres prohibir.
+
+// Gib Usernamen hier ein, die du verbieten willst.
+
+// Umiesc tutaj nazwy uzytkownika, ktore chcesz zablokowac.
+
+
+
+
+
+
+
+> mods.txt
+
+
+// Put Usernames you want to me mods on this server.
+
+// Pon los nombres de usuario que me quieres mods en este servidor.
+
+// Nutzernamen, die du mir Mods auf diesem Server willst.
+
+// Umiesc nazwy uzytkownikow, ktore chcesz dla mnie modow na tym serwerze.
+
+
+
+
+
+> readmeyo.txt
+
+
+
+The VNO Readme.txt! welcome!
+
+> How do I DO ANYTHING?????
+
+-See this Link:
+https://docs.google.com/document/d/1tBkgl3TPkW7JyyGYPRWEMPcrYp_Mr92Wj2vUvkd5Jm8/edit?copiedFromTrash
+
+> How do I host a Server?
+
+See this WIP link:
+https://docs.google.com/document/d/1-wt9O7WcBeoj3qVN7-oXLv7rJYuyVPYLja5NW4S2ZEE/edit?copiedFromTrash
+
+
+OR
+
+
+Open a Port (Google it). Use port in the Settings.ini of your VNO Server Folder. 
+Edit everything in that Server Folder. Voila! Done. See server rules here:
+
+http://visualnovelonline.com/rules
+
+
+
+
+
+> How do I set passwords on Rooms?
+
+-Add a number on the bottom (of the Room) and an "=". Then add a Pass! We
+left a template about how everything works already, just read it and learn
+from it! C'mon you can't be THAT Dumb!
+
+Example:
+Cafe = Password
+
+> How do I make a Room Require an Item or Money?
+
+- We ALSO left a Template of how that System works in the Template Server files.
+It looks a little something like:
+[pass]
+15 = PasswordTopSecret
+[money]
+17 = 99
+[itemlock]
+20 = 10
+
+We left way more info in the Server folders [Template] folder, in areas.ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------
+
+
+
+
+El VNO Readme.txt! Bienvenido!
+
+> COMO HAGO ALGO? ?????
+
+-Ver este enlace:
+https://docs.google.com/document/d/1tBkgl3TPkW7JyyGYPRWEMPcrYp_Mr92Wj2vUvkd5Jm8/edit?copiedFromTrash
+
+> Como puedo alojar un Servidor?
+
+Ver este enlace WIP:
+https://docs.google.com/document/d/1-wt9O7WcBeoj3qVN7-oXLv7rJYuyVPYLja5NW4S2ZEE/edit?copiedFromTrash
+
+
+Abra un puerto (Google it). Use el puerto en Settings.ini de su carpeta de servidor de VNO.
+Edita todo en esa Carpeta de Servidor. Voila! Hecho. Vea las reglas del servidor aqui:
+
+http://visualnovelonline.com/rules
+
+
+
+
+
+> Como configuro contrasenas en salas?
+
+-Agregar un numero en la parte inferior (de la sala) y un "=". Entonces agrega un pase! Nosotros
+dejo una plantilla sobre como funciona todo, solo leala y aprenda
+de eso! Vamos, no puedes ser tan tonto!
+
+Ejemplo:
+Cafe = Contrasena
+
+> Como hago para que una habitacion requiera un articulo o dinero?
+
+- TAMBIEN dejamos una Plantilla de como funciona ese Sistema en los archivos del Servidor de plantillas.
+Se ve algo asi como:
+[pasar]
+15 = PasswordTopSecret
+[dinero]
+17 = 99
+[itemlock]
+20 = 10
+
+Dejamos mucho mas informacion en la carpeta Carpetas del servidor [Plantilla], en areas.ini.
+
+
+
+
+
+
+
+
+
+Die VNO-Readme.txt! herzlich willkommen!
+
+> Wie mache ich etwas ?????
+
+-Siehe diesen Link:
+https://docs.google.com/document/d/1tBkgl3TPkW7JyyGYPRWEMPcrYp_Mr92Wj2vUvkd5Jm8/edit?copiedFromTrash
+
+> Wie hoste ich einen Server?
+
+Siehe diesen WIP-Link:
+https://docs.google.com/document/d/1-wt9O7WcBeoj3qVN7-oXLv7rJYuyVPYLja5NW4S2ZEE/edit?copiedFromTrash
+
+
+ODER
+
+
+Offne einen Port (Google it). Verwenden Sie den Port in der Settings.ini Ihres VNO Server-Ordners.
+Bearbeiten Sie alles in diesem Serverordner. Voila! Erledigt. Siehe Serverregeln hier:
+
+http://visualnovelonline.com/Regeln
+
+
+
+
+
+> Wie stelle ich Passworter auf Rooms ein?
+
+-Fugen Sie eine Nummer auf der Unterseite (des Raumes) und ein "=". Dann fugen Sie einen Pass hinzu! Wir
+Hinterlasse eine Vorlage daruber, wie alles schon funktioniert, lese es einfach und lerne
+davon! Komm schon, du kannst nicht so dumm sein!
+
+Beispiel:
+Cafe = Passwort
+
+> Wie kann ich einen Raum dazu bringen, einen Gegenstand oder Geld zu verlangen?
+
+- Wir haben auch eine Vorlage fur die Funktionsweise des Systems in den Vorlagenserverdateien hinterlassen.
+Es sieht ein bisschen so aus wie:
+[bestehen]
+15 = PasswortTopSecret
+[Geld]
+17 = 99
+[Artikelverriegelung]
+20 = 10
+
+Wir haben weitere Informationen im Ordner [Ordner] der Serverordner in areas.ini hinterlassen.
+
+
+
+
+
+
+
+
+
+
+
+VNO Readme.txt! Witamy!
+
+> Jak ZROBIC WSZYSTKO?
+
+-Zobacz ten link:
+https://docs.google.com/document/d/1tBkgl3TPkW7JyyGYPRWEMPcrYp_Mr92Wj2vUvkd5Jm8/edit?copiedFromTrash
+
+> Jak uruchomic serwer?
+
+Zobacz ten link WIP:
+https://docs.google.com/document/d/1-wt9O7WcBeoj3qVN7-oXLv7rJYuyVPYLja5NW4S2ZEE/edit?copiedFromTrash
+
+
+LUB
+
+
+Otworz port (Google it). Uzyj portu w pliku Settings.ini w folderze serwera VNO.
+Edytuj wszystko w tym folderze serwera. Voila! Gotowe. Zobacz zasady serwera tutaj:
+
+http://visualnovelonline.com/rules
+
+
+
+
+
+> Jak ustawic hasla w pokojach?
+
+-Dodaj liczbe na dole (pokoju) i "=". Nastepnie dodaj karte! My
+zostawil szablon o tym, jak wszystko juz dziala, po prostu przeczytaj i naucz sie
+z tego! Chodz, nie mozesz byc TAK Glupi!
+
+Przyklad:
+Cafe = haslo
+
+> Jak sprawic, by pokoj wymagal przedmiotu lub pieniedzy?
+
+- ZOSTALISMY ROWNIEZ Szablon dzialania tego systemu w plikach serwera szablonow.
+Wyglada troche jak:
+[przechodzic]
+15 = PasswordTopSecret
+[pieniadze]
+17 = 99
+[przedmiot]
+20 = 10
+
+Zostawilismy znacznie wiecej informacji w folderze Foldery serwerow [Szablon] w pliku areas.ini.
+
+
+
+
+
+
+

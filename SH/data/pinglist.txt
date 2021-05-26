@@ -1,0 +1,14 @@
+@everyone
+@all
+@here
+
+
+
+
+\\ Place Words or phrases you want to ping your client. The "@" isn't required.
+
+\\ Coloque las palabras o frases que desea hacer ping a su cliente. La "@" no es obligatoria.
+
+\\ Platzieren Sie Worter oder Phrasen, die Sie an Ihren Client pingen mochten. Das "@" ist nicht erforderlich.
+
+\\ Umiesc wyrazy lub wyrazenia, ktore chcesz pingowac klienta. "@" Nie jest wymagane.

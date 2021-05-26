@@ -1,0 +1,30 @@
+puu.sh
+imgur.com
+localhost
+youtube.com
+vk.com
+pp.userapi.com
+userapi.com
+tumblr.com
+deviantart.com
+twitter.com
+soundcloud.com
+ru.pinterest.com
+i.pinimg.com
+gramunion.com
+pbs.twimg.com
+imgur.com
+psv4.userapi.com
+
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+
+\\ Place your desired Image Hosting Sites here, so Animators can use them.
+
+\\ Coloque aqui los sitios de alojamiento de imagenes que desee, para que los animadores puedan usarlos.
+
+\\ Platzieren Sie Ihre gewunschten Image Hosting Sites hier, damit Animators sie verwenden konnen.
+
+\\ Umiesc tutaj wybrane witryny hostingu obrazow, aby animatorzy mogli z nich korzystac.

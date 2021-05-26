@@ -1,0 +1,11 @@
+This is where BigArt and Roster Images for the Character Select Screen.
+There are also 2 images for Missing Emote placeholders to be shown.
+
+Aqui VNO usa archivos de musica, efectos de sonido (SFX) y blips.
+Los blips son el sonido que escucha cuando las personas escriben / hablan en VNO.
+
+Hier verwendet VNO Musikdateien, Soundeffekte (SFX) und Blips.
+Blips sind der Ton, den Sie horen, wenn Leute in VNO schreiben / sprechen.
+
+Tutaj VNO wykorzystuje pliki muzyczne, efekty dzwiekowe (SFX) i blipy.
+Blipy to dzwiek, ktory slyszysz, gdy ludzie pisza / mowia w VNO.
