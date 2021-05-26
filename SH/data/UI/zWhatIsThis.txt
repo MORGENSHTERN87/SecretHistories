@@ -1,0 +1,36 @@
+This is where VNO uses Custom Themes to change how VNO looks.
+Edit settings.ini and put one of these folder names to "theme =" in
+the settings.ini, where the VNO.exe client is placed.
+
+If you want to make a theme, look at the TEMPLATE folder and edit that one.
+
+
+
+
+Aqui es donde VNO usa temas personalizados para cambiar el aspecto de VNO.
+Edite settings.ini y coloque uno de estos nombres de carpeta en "theme =" en
+el settings.ini, donde se coloca el cliente VNO.exe.
+
+Si desea crear un tema, mire la carpeta TEMPLATE y editela.
+
+
+
+
+
+
+Hier verwendet VNO Custom Themes, um die Darstellung von VNO zu andern.
+Bearbeiten Sie settings.ini und geben Sie einen dieser Ordnernamen in "theme =" ein.
+die settings.ini, in der sich der VNO.exe-Client befindet.
+
+Wenn Sie ein Thema erstellen mochten, schauen Sie sich den Ordner TEMPLATE an und bearbeiten Sie diesen.
+
+
+
+
+
+
+To tutaj VNO wykorzystuje niestandardowe motywy, aby zmienic wyglad VNO.
+Edytuj plik settings.ini i umiesc jedna z tych nazw folderow w "theme =" w
+plik settings.ini, w ktorym znajduje sie klient VNO.exe.
+
+Jesli chcesz utworzyc motyw, spojrz na folder TEMPLATE i edytuj go.

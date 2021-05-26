@@ -1,0 +1,15 @@
+This theme has three text box options
+
+The Default, Hoshido, and Nohr.
+
+The Default one is set by... well.. default.
+
+To change to a different text box design, rename the current chat.png to its respective
+file name, i.e: Default, Nohr, Hoshido.
+
+then rename the desired one to chat.png, and reload ingame.
+
+
+
+> THEME MADE BY 
+Kisaragi

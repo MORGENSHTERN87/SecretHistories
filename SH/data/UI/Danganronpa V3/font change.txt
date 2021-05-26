@@ -1,0 +1,2 @@
+if you want to change from the regular font to the nonstop debate font
+replace all "Source Sans Pro Semibold" in the design.ini with "Poor Richard" after installing the fonts

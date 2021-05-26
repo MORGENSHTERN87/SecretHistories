@@ -1,0 +1,13 @@
+This is where VNO uses Music Files, Sound effects (SFX) and Blips.
+Blips are the sound you hear when people type / talk in VNO.
+
+
+Aqui es donde VNO usa archivos de musica, efectos de sonido (SFX) y blips.
+Los blips son el sonido que escucha cuando las personas teclean / hablan en el VNO.
+
+Hier verwendet VNO Musikdateien, Soundeffekte (SFX) und Blips.
+Blips sind der Ton, den du horst, wenn Leute in VNO schreiben / sprechen.
+
+
+To tutaj VNO uzywa plikow muzycznych, efektow dzwiekowych (SFX) i Blipow.
+Blipy to dzwiek, ktory slyszysz, gdy ludzie wpisuja / rozmawiaja w VNO.
